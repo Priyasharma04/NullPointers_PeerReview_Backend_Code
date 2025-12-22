@@ -28,8 +28,8 @@ The project is divided into three main components:
 - The website is **live and functional**
 - Communicates with backend through APIs
 
-🔗 Frontend GitHub Repository: *[https://github.com/aasthac26/NullPointers_PeerReviewAI_code]*  
-🔗 Live Website URL: *[https://frontend-one-iota-23.vercel.app/]*  
+ Frontend GitHub Repository: *[https://github.com/aasthac26/NullPointers_PeerReviewAI_code]*  
+ Live Website URL: *[https://frontend-one-iota-23.vercel.app/]*  
 
 
 ### Machine Learning Model
