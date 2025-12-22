@@ -5,13 +5,11 @@ This repository contains the **backend implementation** of a peer review project
 
 The project follows a modular architecture where the **backend**, **frontend**, and **machine learning model** are maintained on separate platforms. This repository serves as the **primary submission**, as required.
 
----
 
 ## Group Details
 - **Project Name:** PeerReviewAI 
 - **Group Name:** Null Pointers 
 
----
 
 ## Project Structure
 The project is divided into three main components:
@@ -24,7 +22,6 @@ The project is divided into three main components:
 
  *This repository is submitted for evaluation.*
 
----
 
 ### Frontend
 - Developed and maintained in a **separate GitHub account**
@@ -34,7 +31,6 @@ The project is divided into three main components:
 🔗 Frontend GitHub Repository: *[https://github.com/aasthac26/NullPointers_PeerReviewAI_code]*  
 🔗 Live Website URL: *[https://frontend-one-iota-23.vercel.app/]*  
 
----
 
 ### Machine Learning Model
 - Model is developed and trained on **Kaggle**
@@ -51,9 +47,8 @@ To connect the machine learning model with the backend:
 4. Ngrok will generate a **public URL**
 5. Copy this URL
 6. Paste the URL into the backend file:
-🔗 Kaggle Model / Notebook Link: *[https://www.kaggle.com/code/priyasharma040404/nullpointers-peerreviewai-model-code]*  
+ Kaggle Model / Notebook Link: *[https://www.kaggle.com/code/priyasharma040404/nullpointers-peerreviewai-model-code]*  
 
----
 
 ## Workflow
 1. User interacts with the live frontend
@@ -64,7 +59,6 @@ To connect the machine learning model with the backend:
 
 > ML inference is currently turned off, but the system architecture supports it.
 
----
 
 ## Reason for Multiple Repositories
 The project components are hosted separately due to:
