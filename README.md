@@ -46,8 +46,9 @@ To connect the machine learning model with the backend:
 3. Run the model code
 4. Ngrok will generate a **public URL**
 5. Copy this URL
-6. Paste the URL into the backend file:
- Kaggle Model / Notebook Link: *[https://www.kaggle.com/code/priyasharma040404/nullpointers-peerreviewai-model-code]*  
+6. Paste the URL into the backend file [app.py]
+   
+  Kaggle Model / Notebook Link: *[https://www.kaggle.com/code/priyasharma040404/nullpointers-peerreviewai-model-code]*  
 
 
 ## Workflow
