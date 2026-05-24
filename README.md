@@ -60,14 +60,3 @@ To connect the machine learning model with the backend:
 
 > ML inference is currently turned off, but the system architecture supports it.
 
-
-## Reason for Multiple Repositories
-The project components are hosted separately due to:
-- Clear separation of frontend, backend, and ML logic
-- Kaggle being suitable for model training and experimentation
-- Independent deployment and maintenance of frontend
-
-
-## Submission Note
-This repository is submitted as part of the software engineering project.  
-All external project components are clearly documented for transparency.
